@@ -8,6 +8,4 @@ Electric vehicle charging station display of charging station location using pub
 
 Written in Jupiter notebook using Python 3.7
 
-Electric vehicle charging station map : https://inu-park.github.io/Electric-vehicle-charging-station/Electric vehicle charging station.html
-
 If you have any questions, please contact super0651@naver.com
